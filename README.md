@@ -1,2 +1,1 @@
-# lab-07-clone-https
-"This is lab 7.Its about SSH"
+# lab-07-clone-https "This is lab 7.Its about SSH"
